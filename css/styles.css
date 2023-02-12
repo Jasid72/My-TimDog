@@ -1,0 +1,193 @@
+body
+{
+    font-family: "Montserrat";
+}
+
+h1,h2,h3,h4,h5,h5{
+    font-family: "Montserrat-Bold";
+}
+
+
+p{
+    color:#8f8f8f
+}
+
+.big-heading
+{
+    font-family: "Montserrat-Black";
+    font-size:3.5rem;
+    line-height: 1.5;
+    font-weight: Bold;
+
+}
+
+.section-heading
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#title
+{
+    background: #ff4c68;
+    padding: 3% 15%;
+    color: #fff;
+    text-align: left;
+
+}
+
+.row
+{
+    padding-top: 4.5rem;
+}
+
+.navbar-brand
+{
+
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.navbar-item
+{
+    padding-left:18px;
+    padding-right:18px;
+}
+
+.nav-link
+{
+    font-family: "Montserrat-light";
+    font-size: 1.2rem;
+}
+
+.download-button
+{
+  margin: 5% 3% 5% 0%;
+}
+
+.title-img
+{
+    width: 60%;
+    transform: rotate(25deg);
+    right: 30%;
+}
+
+@media(max-width: 990px)
+{
+
+#title
+{
+    text-align: center;
+
+  }
+
+.title-img
+{
+    width: 50%;
+    transform: rotate(0);
+
+
+}
+}
+
+#features
+{
+   padding: 7% 15%;
+   font-family: Montserrat;
+   background: white;
+}
+
+.features-title
+{
+font-size: 1.5rem;
+}
+
+.features-box
+{
+text-align: center;
+padding: 5%;
+}
+
+.icon
+{
+color: #ef8172;
+margin-bottom: 1rem;
+}
+
+.icon:hover
+{
+    color: #ff4c68;
+}
+
+#testimonials
+{
+    padding: 7% 15%;
+    text-align: center;
+    background: #ff4c68;
+    color: white;
+}
+
+.testimonial-text
+{
+    font-size:3rem;
+    line-height: 1.5;
+}
+
+.carousel-item
+{
+    padding: 7% 15%;
+}
+
+.test-img
+{
+width: 10%;
+border-radius: 100% ;
+margin: 20px;
+}
+
+#press
+{
+    background: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo
+{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#pricing
+{
+ padding: 100PX;
+}
+
+.price-text
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#cta
+{
+    background: #ff4c68;
+    padding: 7% 15%;
+    text-align: center;
+    color: white;
+}
+
+#footer
+{
+   background: #fff;
+   padding: 7% 15%;
+   text-align: center;
+}
+
+.social
+{
+margin: 20px 10px;
+}
+
+
